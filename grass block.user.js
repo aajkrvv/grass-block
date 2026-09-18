@@ -11,3 +11,7 @@
 // @match         *://*/*
 // @run-at        document-start
 // ==/UserScript==
+(function() {
+  'use strict';
+  alert('테스트');
+})();
